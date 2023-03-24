@@ -14,8 +14,7 @@ Currently, the app is not hosted anywhere for public use so one must pull/clone 
 1. Register a new user
 2. Sign in
 3. Add a new chat
-
-    A user can change the gpt context by creating a chat from the (+) button at the top of the **My Chats** window and adding one of these prefixes to the title of the new chat:
+  - A user can change the gpt context by creating a chat from the (+) button at the top of the **My Chats** window and adding one of these prefixes to the title of the new chat:
     - AiChat_ responds as a helpful assistant  
     - AiCode_ responds as an assistant coder with only code and no explanations
     - AiAssist_ responds as a helpful assistant that serves to only complete user's thoughts or sentences
