@@ -27,7 +27,7 @@ Chat app where users can:
 - Register an account
 - Create chats
 - Add one or more members to a chat thread from the members drop down
-- Add a an AI bot assistant by prefixing the chat title with one of the options (see step 3 in **Use the app**)
+- Add an AI bot assistant by prefixing the chat title with one of the options (see step 3 in **Use the app**)
 - Add an attachment to a chat with the ability of full screen image viewer when clicked
 - View photos from the drop down under members
 - Delete chat from the options drop down below photos
